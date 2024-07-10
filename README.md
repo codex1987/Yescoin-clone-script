@@ -1,0 +1,1 @@
+# Yescoin-clone-script
