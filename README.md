@@ -10,6 +10,14 @@
 We can clone and customize popular crypto clicker games like Tapswap, Hamster and Notcoin, or create a hybrid that combines their best features!
  
 Also in our portfolio there are ready-made clickers that we can quickly set up for you and launching such a game will take a short time.
+
+**Demo Telegram Bot**
+
+***Just Demo***
+
+*This is just a demo. Some scripts are not given here you will get all scripts when you buy. I have not given all scripts for security. You will get all scripts if you buy.*
+
+👉  https://t.me/hello96T_bot/Notcoin
  
 **Functions:**
 - 🤘 Tap - Click for mine coins
