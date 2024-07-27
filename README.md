@@ -15,9 +15,15 @@ Also in our portfolio there are ready-made clickers that we can quickly set up f
 
 ***Just Demo***
 
-*This is just a demo. Some scripts are not given here you will get all scripts when you buy. I have not given all scripts for security. You will get all scripts if you buy.*
+*Check our demo bot its just demo not for airdrop working. Working script available only $60
 
-👉  https://t.me/hello96T_bot/Notcoin
+*Tapswap
+Notcoin
+Hamster kombat
+memefi
+Some other’s bots full source available + ton wallet connect suported.*
+
+👉  https://t.me/NotcloneBot
  
 **Functions:**
 - 🤘 Tap - Click for mine coins
